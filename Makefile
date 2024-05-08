@@ -5,7 +5,7 @@ CC = c++
 
 CPPFLAGS = -Wall -Wextra -Werror -g -lwiringPi -lncurses
 
-SRC_DIR = ./
+SRC_DIR = ./srcs
 SRC =		main.cpp \
 			init.cpp \
 			gameLoop.cpp \
